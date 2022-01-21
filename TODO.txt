@@ -1,0 +1,4 @@
+- Make pretty UI
+- Drag and drop function
+- Explore this PC function
+- Read video file and use audio to work on it
